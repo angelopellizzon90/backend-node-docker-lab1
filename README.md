@@ -46,6 +46,10 @@ $ npm run start:prod
 
 ## Run tests
 
+# creacion de archivo .env para la BD
+Crear archivo `.env` en la raíz del proyecto basado en `.env.example`.
+crear Tabla usuarios basandose en el script createUsuarios.sql
+
 ```bash
 # unit tests
 $ npm run test
